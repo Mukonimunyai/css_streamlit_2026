@@ -7,7 +7,7 @@ st.title("Researcher Profile Page with STEM Data")
 
 # Collect basic information
 name = "Mukoni Monyai"
-field = "Numerical optimization"
+field = "Mathematics and Applied Mathematics"
 institution = "Sefako Makgatho Health Sciences University"
 
 import streamlit as st
@@ -154,3 +154,4 @@ st.markdown(
     "<center>© 2026 | Mathematics CV • Built with Streamlit</center>",
     unsafe_allow_html=True
 )
+
